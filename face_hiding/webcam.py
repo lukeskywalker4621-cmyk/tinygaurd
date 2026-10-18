@@ -1,6 +1,8 @@
 import cv2
 import os
 
+HIDE_MODE = "blur"
+
 def hide_face():
     model_path = os.path.join(
         os.path.dirname(os.path.abspath(__file__)),
@@ -9,6 +11,10 @@ def hide_face():
 
     if not os.path.exists(model_path):
         print("Error: YuNet model not found.")
+        return
+
+    if HIDE_MODE not in ("blur", "black"):
+        print("Error: HIDE_MODE must be 'blur' or 'black'.")
         return
 
     cam = cv2.VideoCapture(0)
@@ -76,7 +82,12 @@ def hide_face():
                     x2 = min(width, x + w + pad_x)
                     y2 = min(height, y + h + pad_y)
 
-                    if x2 > x1 and y2 > y1:
+                    if x2 <= x1 or y2 <= y1:
+                        continue
+
+                    if HIDE_MODE == "black":
+                        frame[y1:y2, x1:x2] = (0, 0, 0)
+                    else:
                         region = frame[y1:y2, x1:x2]
                         frame[y1:y2, x1:x2] = cv2.GaussianBlur(
                             region, (99, 99), 50
