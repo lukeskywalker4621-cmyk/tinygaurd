@@ -45,3 +45,62 @@ a{
   padding: 0%;
   bottom: 70px;
 }
+
+.signin_entry {
+  display: grid;
+  gap: 0.5rem;
+  width: 100%;
+  max-width: 24rem;
+  color: #334155;
+  font: 500 0.875rem/1.4 system-ui, sans-serif;
+  margin-inline: auto;
+}
+
+.signin_entry__input {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.75rem;
+  background: #fff;
+  color: #0f172a;
+  font: 400 1rem/1.4 system-ui, sans-serif;
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.signin_entry__input::placeholder {
+  color: #64748b;
+  opacity: 1;
+}
+
+.signin_entry__input:hover:not(:disabled) {
+  border-color: #94a3b8;
+}
+
+.signin_entry__input:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+  border-color: #6366f1;
+  box-shadow: 0 0 0 4px rgb(99 102 241 / 15%);
+}
+
+.signin_entry__input:disabled {
+  background: #f1f5f9;
+  color: #64748b;
+  cursor: not-allowed;
+}
+
+.signin_entry__input:disabled::placeholder {
+  color: #94a3b8;
+}
+
+.signin_entry__input:-webkit-autofill {
+  -webkit-text-fill-color: #0f172a;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .signin_entry__input {
+    transition: none;
+  }
+}
