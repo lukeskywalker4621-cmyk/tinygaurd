@@ -259,37 +259,6 @@ h2.slogan {
   transform: scale(1.04);
 }
 
-.tos-label {
-  display: flex;
-  align-items: flex-start;
-  gap: 10px;
-  margin-top: -2px;
-  color: #a7b8ac;
-  font-size: 0.8rem;
-  line-height: 1.6;
-  cursor: pointer;
-}
-
-#tos {
-  flex-shrink: 0;
-  width: 16px;
-  height: 16px;
-  margin: 3px 0 0;
-  accent-color: var(--accent);
-  cursor: pointer;
-}
-
-.tos-label a {
-  color: var(--accent);
-  text-decoration: none;
-  text-underline-offset: 3px;
-}
-
-.tos-label a:hover {
-  color: var(--accent-hover);
-  text-decoration: underline;
-}
-
 .submit-button {
   display: block;
   width: 100%;
