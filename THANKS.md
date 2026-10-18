@@ -1,5 +1,5 @@
 # Thanks to
 
-my brother (doesnt want to be named)
+- my brother (doesnt want to be named)
 
-waohhi
+- waohhi
