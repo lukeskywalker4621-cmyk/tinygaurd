@@ -31,7 +31,7 @@ const createWindow = () => {
   }
 
   // Open the DevTools.
-  mainWindow.webContents.openDevTools();
+  //mainWindow.webContents.openDevTools(); we dont want this rn
 };
 
 // This method will be called when Electron has finished
