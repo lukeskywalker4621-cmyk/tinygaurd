@@ -6,3 +6,12 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+
+h1{
+  font-size: 60px;
+  text-align: center;
+  color: green;
+  position: relative;
+  bottom: 55px;
+  padding: 0px;
+}
