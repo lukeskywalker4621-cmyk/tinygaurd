@@ -12,7 +12,7 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
-    icon: path.join(app.getAppPath(), 'assets', 'Tinygaurd_logo.svg'),
+    icon: path.join(app.getAppPath(), 'assets', 'Tinygaurd_logo.png'),
     webPreferences: {
       preload: path.join(__dirname, 'preload.cjs'),
     },
