@@ -3,11 +3,11 @@
   "productName": "tinygaurd",
   "version": "1.0.0",
   "private": true,
-  "description": "My Electron application description",
+  "description": "All-in-one security application",
   "keywords": [],
   "license": "MIT",
   "author": {
-    "name": "lukeskywalker4621-cmyk",
+    "name": "Beast5billion",
     "email": "lukeskywalker4621@gmail.com"
   },
   "main": ".vite/build/main.cjs",
