@@ -7,11 +7,21 @@ body {
   padding: 2rem;
 }
 
-h1{
+#title{
   font-size: 60px;
   text-align: center;
   color: green;
   position: relative;
   bottom: 55px;
   padding: 0px;
+}
+
+div{
+  position: relative;
+  text-align: center;
+}
+
+.slogan{
+  position: relative;
+  text-align: center;
 }

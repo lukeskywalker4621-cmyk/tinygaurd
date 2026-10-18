@@ -6,8 +6,57 @@
     <link rel="stylesheet" href="src/index.css" type="text/css">
   </head>
   <body>
-    <h1>Tinygaurd</h1>
-    <p>Tinygaurd is a all-in-one security application</p>
+    <h1 id="title">Tinygaurd</h1>
+    <h1 class="slogan">Your digital life, protected.</h1>
+    <h3 class="slogan">One app for everything security.</h3>
+    <div>
+
+      <h3>Email</h3>
+      <form>
+        <input
+          type="text"
+          id="email"
+          name="email"
+          minlength="4"
+          maxlength="20"
+          required
+          placeholder="you@example.com"
+        >
+
+      </form>
+
+      <h3>Password</h3>
+      <form>
+        <input
+          type="text"
+          id="password"
+          name="password"
+          minlength="8"
+          maxlength="15"
+          required
+          placeholder="Create a strong password."
+        >
+      </form>
+
+      <form>
+        <label>Agree to the TOS</label>
+        <input 
+          type="checkbox"
+          id="tos"
+          name="tos"
+          required
+        >
+      </form>
+
+      <button type="submit">Submit</button>
+    </div>
+
+    <footer>
+      <a href="TOS.html">
+        <p>hello</p>
+      </a>
+    </footer>
+
     <script type="module" src="/src/renderer.js"></script>
   </body>
 </html>
