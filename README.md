@@ -1,7 +1,7 @@
 # tinyGuard
 All-in-one security, made simple.
 
-TinyGuard brings security tools together in one place, helpting you monitor your device.
+TinyGuard brings security tools together in one place, helping you monitor your device.
 
 TinyGuard is under active development. Features and setup instructions may change.
 
