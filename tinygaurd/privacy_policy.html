@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Tinyguard</title>
-        <link rel="stylesheet" href="src/index.css" type="text/css">
+        <link rel="stylesheet" href="src/privacy_policy.css" type="text/css">
     </head>
     <body>
         <header>
@@ -12,9 +12,86 @@
             </a>
         </header>
         <h1 class="title">Privacy Policy</h1>
+        <p><strong>Last updated:</strong> October 19, 2026</p>
+        <h3>1. Introduction</h3>
+        <p>TinyGuard ("we," "our," or "the application") is an open-source security application designed to bring multiple security and privacy tools together in one desktop interface.</p>
+        <p>This Privacy Policy explains how TinyGuard may access, process, store, and handle information when you use the application and its associated tools.</p>
+        <p>TinyGuard is under active development. Its features and data-handling practices may change as new tools are introduced or existing features are updated.</p>
+        <h3>2. Information We Process</h3>
+        <p>Depending on which features you choose to use, TinyGuard may process the following information locally on your device:</p>
+        <ul>
+            <li><strong>Files:</strong> Files or directories you select for scanning or analysis.</li>
+            <li><strong>Webcam footage:</strong> Video frames captured from your webcam when using face-hiding functionality.</li>
+            <li><strong>Audio:</strong> Audio input processed by voice-changing functionality.</li>
+            <li><strong>Device information:</strong> Technical information necessary for security checks or other tools that inspect your device.</li>
+            <li><strong>User-provided content:</strong> Links, text, or other input you provide to individual security tools.</li>
+        </ul>
+        <p>The information processed depends on the specific tool you use and the permissions you grant it.</p>
+        <p>TinyGuard does not require you to create an account to use its desktop application.</p>
+        <h3>3. Local Processing and Storage</h3>
+        <p>TinyGuard uses local desktop functionality and Python-based tools to perform certain operations on your device.</p>
+        <p>Information processed by a local tool may remain on your device rather than being uploaded to a TinyGuard-operated server. However, local processing does not automatically mean that information is never saved or transmitted.</p>
+        <p>For example, the current face-hiding tool writes processed webcam frames to a video file named output.mp4. This file may remain on your device until you delete it.</p>
+        <p>Other tools may create files, temporary data, scan results, or other outputs as part of their operation.</p>
+        <p>You are responsible for reviewing generated files and deleting information you no longer need.</p>
+        <h3>4. Webcam and Face-Hiding Features</h3>
 
-        <p class="Privacy Policy">Add Privacy policy later</p>
-
+        <p>If you use TinyGuard's face-hiding functionality, the application may access your webcam to capture video frames and apply visual effects, such as blurring or obscuring detected faces.</p>
+        <p>Webcam access is necessary for this functionality to work.</p>
+        <p>Processed video may be saved locally as described in Section 3. You should review the output location and delete generated footage when it is no longer needed.</p>
+        Face detection may be inaccurate. The tool may fail to detect a face or may not obscure all visible facial features. Do not rely on it as a guarantee of anonymity or identity protection.
+        <h3>5. Voice-Changing Features</h3>
+        <p>If you use TinyGuard's voice-changing functionality, audio input may be processed to apply sound effects or alter your voice.</p>
+        <p>Audio may be handled by local audio-processing libraries and the audio devices you select.</p>
+        <p>You should verify the configuration of your recording, playback, and virtual microphone software before using it. Audio may be recorded or transmitted by other applications that receive the processed output.</p>
+        <p>This policy does not cover the independent data practices of third-party audio software or services.</p>
+        <h3>6. File Scanning and Security Tools</h3>
+        <p>When you use file-scanning or other security functionality, the selected tool may read files, inspect their contents, or analyze information about your system to produce results.</p>
+        <p>Files selected for scanning may contain sensitive information. Only scan files you are authorized to access.</p>
+        <p>Scan results, logs, and reports may be stored locally depending on the tool's implementation. Review the behavior of each tool before scanning confidential or personal data.</p>
+        <p>TinyGuard is under active development, and individual tools may have different processing and storage behaviors.</p>
+        <h3>7. Internet Connections and Third-Party Services</h3>
+        <p>Some current or future features may access websites, URLs, external services, or network resources to perform their intended functions.</p>
+        <p>When a tool connects to a third-party service, that service may receive information such as your IP address, connection metadata, or the specific request you make. The information disclosed depends on the tool and the service involved.</p>
+        <p>Third-party services operate under their own privacy policies and terms.</p>
+        <p>TinyGuard does not control the privacy, security, availability, or data-retention practices of external services.</p>
+        <p>Before using a feature that connects to the internet, review what information it sends and which service receives it.</p>
+        <h3>8. Analytics, Tracking, and Advertising</h3>
+        <p>TinyGuard is intended to provide desktop security functionality.</p>
+        <p>This policy does not authorize the collection of personal information for advertising or profiling. Any future analytics, telemetry, advertising, or tracking functionality that changes how information is handled should be disclosed through an updated privacy policy before being introduced.</p>
+        <p>Because TinyGuard is actively developed, review the current source code and dependencies for the behavior of the version you install.</p>
+        <h3>9. Data Retention and Deletion</h3>
+        <p>TinyGuard does not provide a universal cloud account or centralized data-deletion system.</p>
+        <p>Information created by local tools may remain on your device until you remove it. Retention depends on the individual tool and the files it creates.</p>
+        <p><strong>To remove locally generated information:</strong></p>
+        <ol>
+            <li>Close the tool that created the information.</li>
+            <li>Locate its output files, reports, recordings, or other saved data.</li>
+            <li>Delete any files you no longer want to retain.</li>
+            <li>Review any temporary files or application data created by the tool.</li>
+        </ol>
+        <p>Uninstalling TinyGuard may not remove every file generated by its tools.</p>
+        <p>Third-party services may retain information according to their own policies.</p>
+        <h3>10. Security</h3>
+        <p>We aim to develop TinyGuard with security and privacy in mind. However, no application or security tool can guarantee complete protection against every threat.</p>
+        <p>TinyGuard is under active development and may contain defects, vulnerabilities, or inaccurate results. Its tools may produce false positives or fail to identify threats.</p>
+        <p>Download TinyGuard from the official repository and review changes before installing unfamiliar forks or modified versions.</p>
+        <p>You should keep your software updated and avoid granting unnecessary permissions.</p>
+        <h3>11. Children's Privacy</h3>
+        <p>TinyGuard is not specifically designed to collect personal information from children. The application does not require an account to use its desktop features.</p>
+        <p>If you believe personal information has been collected through a TinyGuard-operated service, please contact the project maintainer.</p>
+        <h3>12. Changes to This Policy</h3>
+        <p>This Privacy Policy may be updated as TinyGuard develops, adds new functionality, changes its dependencies, or modifies how information is processed.</p>
+        <p>Updates will be published in the official GitHub repository. The "Last updated" date at the top of this document indicates the most recent revision.</p>
+        <h3>13. Contact</h3>
+        <p>For questions, concerns, or requests related to this Privacy Policy, contact the project maintainer:</p>
+        <span><strong>GitHub repository:</strong></span> 
+        <a href="https://github.com/lukeskywalker4621-cmyk/tinyguard"> https://github.com/lukeskywalker4621-cmyk/tinyguard
+        </a>
+        <br>
+        <span><strong>Email:</strong></span>
+        <a href="mailto:Lukeskywalker4621@gmail.com">lukeskywalker4621@gmail.com</a>
+        <p>You may also report privacy or security concerns through the repository's available reporting channels.</p>
         <script type="module" src="/src/renderer.js"></script>
     </body>
 </html>
