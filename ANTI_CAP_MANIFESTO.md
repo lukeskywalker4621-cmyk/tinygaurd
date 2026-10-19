@@ -1,12 +1,16 @@
 ANTI_CAPITALIST SOFTWARE LICENSE(ACSL)
 
 Version 1.0 --Draft
+
 Preamble
+
 TinyGuard is developed in opposition to the concentration of wealth and power under capitalism.
 
 This license aims to protect collective access to software while preventing corporations from appropriating community work for private profit.
 
-The software should serve people and communities, not corporate accumulation, monopolistic control, or the exploitation of workers.
+Software should serve people and communities, not corporate accumulation, monopolistic control, or the exploitation of workers.
+
+This License grants individuals and eligible community organizations the right to use, study, modify, and chare the covered software, subject to the conditions stated below. It does not grant the same permissions to Restricted Commercial Entities.
 
 1. Individual and Community Rights
 Subject to this license's conditions, individuals and qualifying community organizations may use, study, modify, copy, and redistribute TinyGuard.
