@@ -12,9 +12,6 @@ Software should serve people and communities, not corporate accumulation, monopo
 
 This License grants individuals and eligible community organizations the right to use, study, modify, and chare the covered software, subject to the conditions stated below. It does not grant the same permissions to Restricted Commercial Entities.
 
-1. Individual and Community Rights
-Subject to this license's conditions, individuals and qualifying community organizations may use, study, modify, copy, and redistribute TinyGuard.
-
 Recipients must preserve applicable copyright notices and the terms of this license.
 
 2. Corporate Use Prohibition
