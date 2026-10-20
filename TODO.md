@@ -1,4 +1,4 @@
 # TODO
 
-[ ] create account backend
-[ ] fix privacy_policy.css
+- [ ] create account backend
+- [ ] fix privacy_policy.css
