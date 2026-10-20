@@ -63,3 +63,35 @@ Subject to the terms and conditions of this License, the Licensor grants each El
 These permission are limited to rights that the Licensor owns or is authorized to license. This License does not grant rights in third-party materials beyond those separately granted by their respective rights holders.
 
 Every Recipient exercising rights under this License must preserve the copyright notices, applicable attribution notices, and a copy of this License with redistributed Covered Software, where reasonably practicable and appropriate to the form of distribution.
+
+## 3. Restriction on Corporate and Private-Profit Use
+
+3.1. No License granted to Restricted Commerical Entities.
+
+The permissions in Section 2 are granted only to Eligible Individuals and Eligible Communities Organizations. No permission is granted under this License to a Restricted Commerical Entity to exercise rights controlled by the Licensor in Covered Software.
+
+3.2. Prohibited activities.
+
+A Restricted Commerical Entity may not rely on this License to:
+
+(a) use, reproduce, modify, or deploy Covered Software in its business operations;
+
+(b) incorporate Covered Software into a product, service, platform, or other commerical offering;
+
+(c) distribute Covered Software or a Derivative Work;
+
+(d) provide access to a modified or unmodified version of Covered Software as a commercial hosted or network service; or 
+
+(e) obtain, exercise, or facilitate any of the foregoing permissions through another person or organization acting as an intermediary.
+
+These restrictions apply to acts requiring permission under applicable intellectual-property law and to the extent the Licensor has authority to impose them.
+
+3.3. No automatic exemption through disclosure.
+
+Making source code publicly available, publishing modifications, contributing code upstream, or releasing a modified version under publicly accessible terms doesn not, by itself, grant a Restricted Commercial Entity permission to engage in activities prohibited by this License.
+
+3.4. Employees and contractors.
+
+An individual's eligibility does not automatically authorize a Restricted Commercial Entity to use Covered Software. A person may not rely on their status as an individual Recipient to provide a company with prohibited rights or access.
+
+Conversely, employment by a Restricted Commercial Entity does not, by itself, eliminate an individual's personal eligibility when the individual independently exercises rights for a permitted purpose and does not facilitate prohibited corporate use.
