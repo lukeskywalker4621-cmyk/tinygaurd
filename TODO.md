@@ -4,3 +4,5 @@
 - [ ] fix privacy_policy.css
 
 ## URGENT
+
+- [ ] finish License
