@@ -95,3 +95,23 @@ Making source code publicly available, publishing modifications, contributing co
 An individual's eligibility does not automatically authorize a Restricted Commercial Entity to use Covered Software. A person may not rely on their status as an individual Recipient to provide a company with prohibited rights or access.
 
 Conversely, employment by a Restricted Commercial Entity does not, by itself, eliminate an individual's personal eligibility when the individual independently exercises rights for a permitted purpose and does not facilitate prohibited corporate use.
+
+## 4. Anti-Circumvention and Indirect Use
+
+4.1. A Recipient may not knowingly arrange, authorize or facilitate a transaction whose principal purpose is to enable a Restricted Commerical Entity to exercise rights that this License does not grant to that entity.
+
+4.2. Prohibited circumvention may include arrangements involving:
+
+(a) subsidiaries, parent companies, or controlled affiliates;
+
+(b) contractors, consultants, resellers, distributors, or hosting providers
+
+(c) nominal transfers of ownership or control that do not reflect the actual arrangement;
+
+(d) an individual or community organization serving as a nominal licensee while a Restricted Commerical Entity directs or benefits from the prohibited use; or
+
+(e) other arrangements designed primarialy to evade the restrictions in Section 3.
+
+4.3. The existence of a corporate relationshiop, common ownership, shared peronnel, or an oridnary commerical transaction does not, standing alone, establish circumvention. The relevent facts, actual control, purpose, and conduct must be considered.
+
+4.4. Nothing in this Section automatically attributes every act of an independent contractor, customer, employee, or affiliate to another person or organization. Attribution and enforcement remain subject to applicable law.
