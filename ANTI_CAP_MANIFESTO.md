@@ -12,6 +12,28 @@ Software should serve people and communities, not corporate accumulation, monopo
 
 This License grants individuals and eligible community organizations the right to use, study, modify, and chare the covered software, subject to the conditions stated below. It does not grant the same permissions to Restricted Commercial Entities.
 
+1. Definitions
+
+For purposes of this License:
+
+1.1. "Covered Software" means the software, source code, object code, documentation, and other copyrightable materials that the Licensor expressly distributes unde this License.
+
+1.2. "Licensor" means the copyright holder or other person or entity authorized to grant the permissions provided by this License.
+
+1.3. "Recipient" means any individual or organization that recieves, accesses, uses, modifies, or redistributes Covered Software.
+
+1.4. "Eligible Individual" means a natural person acting on their own behalf or for personal, educational, reserach, noncommerical, or community purposes, provided that the person does not knowingly act as an intermediary to facilitate a Restricted Commerial Entity's prohibited use.
+
+1.5. "Eligible Community Organization" means a nonprofit association, mutual-aid group, community project, educational collective, cooperative, worker-owned enterprise, or similar organization that:
+
+(a) operated primarily for community benefit, mutual aid, education, or the collective benefits of its members;
+
+(b) is not controlled by Restricted Commerical Entity; and
+
+(c) does not use the permissions granted by this License primarily to facilitate a Restricted Commerial Entity's prohibited use.
+
+An organization is not disqualified merely because it charges fees to recover costs, compensates workers fairly, or generates a surplus used for its stated community or member-serving purposes.
+
 Recipients must preserve applicable copyright notices and the terms of this license.
 
 2. Corporate Use Prohibition
