@@ -115,3 +115,38 @@ Conversely, employment by a Restricted Commercial Entity does not, by itself, el
 4.3. The existence of a corporate relationshiop, common ownership, shared peronnel, or an oridnary commerical transaction does not, standing alone, establish circumvention. The relevent facts, actual control, purpose, and conduct must be considered.
 
 4.4. Nothing in this Section automatically attributes every act of an independent contractor, customer, employee, or affiliate to another person or organization. Attribution and enforcement remain subject to applicable law.
+
+## 5. Source Availability and Redistribution
+
+5.1. Redistribution.
+
+A Recipient who redistributes Covered Software or a Derivative Work must:
+
+(a) provide the Corresponding Source for the version distributed;
+
+(b) preserve this License and all applicable copyright and attribution notices;
+
+(c) identify material modifications made by that Recipient, where reasonably practicable; and
+
+(d) ensure that the recipient receives the permissions and obligations applicable to an eligible Recipient under this License.
+
+5.2. Source access method
+
+Corresponding Source must accompany the distributed software or be made available through a reasonable, durable means of access, such as a public repository or an equivalent method that provides access to the exact covered version.
+
+The source must be complete enough to permit inspection and modification of the covered code. A binary-only release does not satisfy this requirement.
+
+5.3. Network services.
+
+If an eligible Recipient modifies Covered Software and offers that modified version for remote interaction over a network, the Recipient must make the Corresponding Source of that version available to users who interact with it remotely.
+
+Source access must be provided without fee for the source itself and through a reasonable method that identifies the version to which the source corresponds.
+
+5.4. No source-access loophole.
+
+A Recipient may not avoid an applicable source obligation merely by distributing compiler files, containers, hosted instances, or other forms of the same covered software.
+
+5.5. Independent components.
+
+This section does not automatically impose this License on independent works that are not Covered Software or Derivative Works. The scope of obligations depends on the applicable rights and facts.
+
