@@ -275,3 +275,30 @@ Covered Software or authorize rrestrictions inconsistent with this License.
 goverance, fair recognition of contributors, and access to software
 regardless of personal wealth.
 
+## 7. Patents, Trademarks, and Third-Party Materials
+
+7.1. Patents
+
+No patent license is granted under this License unless the Licensor
+expressly states otherwise in a separate written instrument. Recipients
+remain responsible for determining whether their activities require
+patent permissions from the Licensor or third parties.
+
+7.2. Trademarks.
+
+This License does not grant rights to use the TinyGuard name, logo, or
+other trademarks, except where reasonable identification of the origin of the
+Covered Software where permitted by applicable law.
+
+7.3. Third-party components.
+
+Components, libraries, assets, and other materials included with or used
+by TinyGuard may be subject to separate licenses. Those licenses
+continue to govern the relevant materials. The Licensor does not purport
+to relicense third-party material without authorization.
+
+7.4. Independant rights.
+
+Nothing in this License eliminates rights or exceptions available under
+applicable law, including rights that cannot lawfully be waived or
+restricted by contract.
