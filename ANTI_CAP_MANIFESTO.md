@@ -45,3 +45,21 @@ A genuinley member-owned cooperative or worker-owned enterprise is not automatic
 1.8. "Derivative Work" means a work based upon or incorporating protectable expression from Covered Software, to the extent recognized by applicable copyright law. Merely intreroperating with, communicating with, or independently implementing functionality cimilar to Covered Software does not, by itself, make a work a Derivative Work.
 
 1.9. "Cooresponding Source" means the preferred form of the Covered Software and its covered modifications for making further modifications, together with the necessary build scripts, configuration files, and other materials resonably required to build, install, and modify the covered version, excluding generally available tools and independent system components that are not part of the Covered Software.
+
+## 2. Copyright License and Individual Rights
+
+Subject to the terms and conditions of this License, the Licensor grants each Eligible Individual and Eligible Community Organization a nonexclusive, worldwide, royalty-free copytight license to:
+
+(a) use and run the Covered Software for any lawful purpose;
+
+(b) inspect, study, and modify its source code;
+
+(c) make and retain copies;
+
+(d) distribute verbatim copis of the Covered Software; and
+
+(e) distribute Derivative Works, subject to the conditions of this License.
+
+These permission are limited to rights that the Licensor owns or is authorized to license. This License does not grant rights in third-party materials beyond those separately granted by their respective rights holders.
+
+Every Recipient exercising rights under this License must preserve the copyright notices, applicable attribution notices, and a copy of this License with redistributed Covered Software, where reasonably practicable and appropriate to the form of distribution.
