@@ -1,7 +1,7 @@
 # tinyGuard
-All-in-one security, made simple.
+All-in-one security/privacy, made simple.
 
-TinyGuard brings security tools together in one place, helping you monitor your device.
+TinyGuard brings security and privacy tools together in one place, helping you monitor your device.
 
 TinyGuard is under active development. Features and setup instructions may change.
 
