@@ -11,16 +11,21 @@ Security updates are provided for:
 
 ## Reporting a Vulnerability
 
-Please report suspected vulnerabilities privatley. **Do not open a public issue** or include exploit details in a public pull request.
+Please report suspected vulnerabilities privatley. **Do not open a public issue**
+or include exploit details in a public pull request.
 
 - **Preferred:** [Private Vulnerability reporting link or contact]
 - **Email:** [Lukeskywalker4621@gmail.com]
 
-Please include the affected version, steps to reproduce, potential impact, any relevent logs or proof of concept. Do not send any real user data, credentials, or secrets.
+Please include the affected version, steps to reproduce, potential impact, any
+relevent logs or proof of concept. Do not send any real user data, credentials,
+or secrets.
 
 ## Response
 
-We aim to acknowledge reports **as quickly as possible** but there is no set time window. We'll coordinate with the reporter on validation, remediation, and disclosure timing.
+We aim to acknowledge reports **as quickly as possible** but there is no set
+time window. We'll coordinate with the reporter on validation, remediation, and
+disclosure timing.
 
 ## Scope
 
