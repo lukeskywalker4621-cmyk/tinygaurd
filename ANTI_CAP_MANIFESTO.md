@@ -336,3 +336,39 @@ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-
 
 THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE,
 AVAILABLE, OR SUITABLE FOR ANY PARTICULAR USE.
+
+## 10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR AND
+CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE
+OR INABILITY TO USE THE COVERED SOFTWARE, INCLUDING  INDIRECT, ACCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, OR LOSS OF DATA, PROFITS, OR
+BUSINESS INTERRUPTION.
+
+THIS SECTION DOES NOT EXCLUDE OR LIMIT LIABILITY TO THE EXTENT THAT SUCH
+EXCLUSION OR LIMITATION IS PROHIBITED BY APPLICABLE LAW.
+
+## 11. Interpretation and Governing Law
+
+11.1. This License must be interpreted consistently with applicable law. No provision is intended to 
+grant the Licensor rights they do not possess or to restrict rights that cannot lawfully be restricted.
+
+11.2. If provision is held unenforceable, it shall be limited to the minimum extent necessary to
+address the defect where permitted by law. The remaining provisions shall remain in effect to the
+extent legally enforceable.
+
+11.3. The absence of a specific prohibition does not create an intellectual-property license beyond
+the permissions expressly granted by this License.
+
+## 12. License Status and Copyright Notice
+
+This text is a proposed custom license. it has not been independently validated by a qualified
+intellectual-property lawyer and should not be represented as legally approved.
+
+Copyright: 2026 Beast5billion
+
+Project: TinyGuard
+
+License: Anti-Capitalist Software License (ACSL), Version 1.0 Proposed Draft
+
+All permissions are subject to the terms above and applicable law.
