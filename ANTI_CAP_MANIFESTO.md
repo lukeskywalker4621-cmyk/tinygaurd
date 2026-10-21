@@ -24,18 +24,18 @@ For purposes of this License:
 
 1.1. "Covered Software" means the software, source code, object code,
 documentation, and other copyrightable materials that the Licensor
-expressly distributes unde this License.
+expressly distributes under this License.
 
 1.2. "Licensor" means the copyright holder or other person or entity
 authorized to grant the permissions provided by this License.
 
-1.3. "Recipient" means any individual or organization that recieves,
+1.3. "Recipient" means any individual or organization that receives,
 accesses, uses, modifies, or redistributes Covered Software.
 
 1.4. "Eligible Individual" means a natural person acting on their own
-behalf or for personal, educational, reserach, noncommerical, or
+behalf or for personal, educational, research, noncommercial, or
 community purposes, provided that the person does not knowingly act
-as an intermediary to facilitate a Restricted Commerial Entity's
+as an intermediary to facilitate a Restricted Commercial Entity's
 prohibited use.
 
 1.5. "Eligible Community Organization" means a nonprofit association,
@@ -45,10 +45,10 @@ cooperative, worker-owned enterprise, or similar organization that:
 (a) operated primarily for community benefit, mutual aid, education, or
 the collective benefits of its members;
 
-(b) is not controlled by Restricted Commerical Entity; and
+(b) is not controlled by Restricted Commercial Entity; and
 
 (c) does not use the permissions granted by this License primarily to
-facilitate a Restricted Commerial Entity's prohibited use.
+facilitate a Restricted Commercial Entity's prohibited use.
 
 An organization is not disqualified merely because it charges fees to
 recover costs, compensates workers fairly, or generates a surplus used
@@ -61,12 +61,12 @@ returns for owners, shareholders, investors, or other private interests,
 including an entity acting through a subsidiary, controlled affiliate, agent,
 or intermediary.
 
-An entity does not become a Restricted Commerical Entity solely
+An entity does not become a Restricted Commercial Entity solely
 because it charges fees, earns revenue, employs workers, or generates a
 surplus. Eligibility must be assessed in light of its legal structure,
 ownership, control, and actual operations.
 
-A genuinley member-owned cooperative or worker-owned enterprise is
+A genuinely member-owned cooperative or worker-owned enterprise is
 not automatically a Restricted Commercial Entity if it operates under
 democratic member or worker control, is not controlled by an outside
 profit-seeking entity, and does not primarily serve private investor
@@ -80,13 +80,13 @@ other means.
 1.8. "Derivative Work" means a work based upon or incorporating
 protectable expression from Covered Software, to the extent recognized
 by applicable copyright law. Merely intreroperating with, communicating
-with, or independently implementing functionality cimilar to Covered
+with, or independently implementing functionality similar to Covered
 Software does not, by itself, make a work a Derivative Work.
 
-1.9. "Cooresponding Source" means the preferred form of the Covered
+1.9. "Corresponding Source" means the preferred form of the Covered
 Software and its covered modifications for making further modifications,
 together with the necessary build scripts, configuration files, and other
-materials resonably required to build, install, and modify the covered
+materials reasonably required to build, install, and modify the covered
 version, excluding generally available tools and independent system
 components that are not part of the Covered Software.
 
@@ -94,7 +94,7 @@ components that are not part of the Covered Software.
 
 Subject to the terms and conditions of this License, the Licensor grants
 each Eligible Individual and Eligible Community Organization a
-nonexclusive, worldwide, royalty-free copytight license to:
+nonexclusive, worldwide, royalty-free copyright license to:
 
 (a) use and run the Covered Software for any lawful purpose;
 
@@ -102,7 +102,7 @@ nonexclusive, worldwide, royalty-free copytight license to:
 
 (c) make and retain copies;
 
-(d) distribute verbatim copis of the Covered Software; and
+(d) distribute verbatim copies of the Covered Software; and
 
 (e) distribute Derivative Works, subject to the conditions of this License.
 
@@ -118,22 +118,22 @@ practicable and appropriate to the form of distribution.
 
 ## 3. Restriction on Corporate and Private-Profit Use
 
-3.1. No License granted to Restricted Commerical Entities.
+3.1. No License granted to Restricted Commercial Entities.
 
 The permissions in Section 2 are granted only to Eligible Individuals and
 Eligible Communities Organizations. No permission is granted under this
-License to a Restricted Commerical Entity to exercise rights controlled by
+License to a Restricted Commercial Entity to exercise rights controlled by
 the Licensor in Covered Software.
 
 3.2. Prohibited activities.
 
-A Restricted Commerical Entity may not rely on this License to:
+A Restricted Commercial Entity may not rely on this License to:
 
 (a) use, reproduce, modify, or deploy Covered Software in its business
 operations;
 
 (b) incorporate Covered Software into a product, service, platform,
-or other commerical offering;
+or other commercial offering;
 
 (c) distribute Covered Software or a Derivative Work;
 
@@ -151,7 +151,7 @@ impose them.
 
 Making source code publicly available, publishing modifications,
 contributing code upstream, or releasing a modified version under
-publicly accessible terms doesn not, by itself, grant a Restricted
+publicly accessible terms does not, by itself, grant a Restricted
 Commercial Entity permission to engage in activities prohibited by this
 License.
 
@@ -171,7 +171,7 @@ facilitate prohibited corporate use.
 
 4.1. A Recipient may not knowingly arrange, authorize or facilitate a
 transaction whose principal purpose is to enable a Restricted
-Commerical Entity to exercise rights that this License does not grant
+Commercial Entity to exercise rights that this License does not grant
 to that entity.
 
 4.2. Prohibited circumvention may include arrangements involving:
@@ -184,15 +184,15 @@ to that entity.
 actual arrangement;
 
 (d) an individual or community organization serving as a nominal
-licensee while a Restricted Commerical Entity directs or benefits from the
+licensee while a Restricted Commercial Entity directs or benefits from the
 prohibited use; or
 
-(e) other arrangements designed primarialy to evade the restrictions in
+(e) other arrangements designed primarily to evade the restrictions in
 Section 3.
 
-4.3. The existence of a corporate relationshiop, common ownership,
-shared peronnel, or an oridnary commerical transaction does not,
-standing alone, establish circumvention. The relevent facts, actual
+4.3. The existence of a corporate relationship, common ownership,
+shared personal, or an ordinary commercial transaction does not,
+standing alone, establish circumvention. The relevant facts, actual
 control, purpose, and conduct must be considered.
 
 4.4. Nothing in this Section automatically attributes every act of an
@@ -267,12 +267,12 @@ contributions, subject to the permissions they have granted and
 applicable law.
 
 6.4. This License does not prohibit a Recipient from holding copyright in
-original, independently copyrightabler modifications. However, ownership
+original, independently copyrightable modifications. However, ownership
 of such modifications does not extinguish rights in the underlying
-Covered Software or authorize rrestrictions inconsistent with this License.
+Covered Software or authorize restrictions inconsistent with this License.
 
-6.5. The project encorages cooperative development, transparent
-goverance, fair recognition of contributors, and access to software
+6.5. The project encourages cooperative development, transparent
+governance, fair recognition of contributors, and access to software
 regardless of personal wealth.
 
 ## 7. Patents, Trademarks, and Third-Party Materials
@@ -297,7 +297,7 @@ by TinyGuard may be subject to separate licenses. Those licenses
 continue to govern the relevant materials. The Licensor does not purport
 to relicense third-party material without authorization.
 
-7.4. Independant rights.
+7.4. Independent rights.
 
 Nothing in this License eliminates rights or exceptions available under
 applicable law, including rights that cannot lawfully be waived or
@@ -305,11 +305,11 @@ restricted by contract.
 
 ## 8. Termination and Reinstatement
 
-8.1. A Recipient's permissions under this License terminate apon a
+8.1. A Recipient's permissions under this License terminate upon a
 material violation of its conditions, subject to applicable law and the
 procedures in this Section.
 
-8.2. Where resonably practicable, the Licensor should provide a written
+8.2. Where reasonably practicable, the Licensor should provide a written
 notice describing the violation and allow the Recipient thirty (30) days
 after receipt of the notice to remedy it.
 
@@ -318,7 +318,7 @@ permissions affected by the violation are reinstated, subject to
 applicable law.
 
 8.4. If the violation is not remedied within the cure period, the Licensor
-may treat the permissions as terminated and pursue emedies available
+may treat the permissions as terminated and pursue remedies available
 under applicable law.
 
 8.5. Reinstatement does not necessarily eliminate liability for a past
