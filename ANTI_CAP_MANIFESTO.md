@@ -302,3 +302,28 @@ to relicense third-party material without authorization.
 Nothing in this License eliminates rights or exceptions available under
 applicable law, including rights that cannot lawfully be waived or
 restricted by contract.
+
+## 8. Termination and Reinstatement
+
+8.1. A Recipient's permissions under this License terminate apon a
+material violation of its conditions, subject to applicable law and the
+procedures in this Section.
+
+8.2. Where resonably practicable, the Licensor should provide a written
+notice describing the violation and allow the Recipient thirty (30) days
+after receipt of the notice to remedy it.
+
+8.3. If the Recipient remedies the violation within the cure period, the
+permissions affected by the violation are reinstated, subject to
+applicable law.
+
+8.4. If the violation is not remedied within the cure period, the Licensor
+may treat the permissions as terminated and pursue emedies available
+under applicable law.
+
+8.5. Reinstatement does not necessarily eliminate liability for a past
+violation or prejudice rights that have independently vested in other
+Recipients under applicable law.
+
+8.6. A Recipient who has not violated this License does not lose their
+permissions solely because another Recipient has violated it.
