@@ -1,0 +1,1 @@
+//Record tool starts, errors, and application events.
