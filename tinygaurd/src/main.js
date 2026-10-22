@@ -66,6 +66,7 @@ ipcMain.on('face-hiding:start', () => {
   const scriptPath = path.resolve(
     app.getAppPath(),
     '..',
+    'tools',
     'face_hiding',
     'webcam.py',
   );
