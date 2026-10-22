@@ -6,4 +6,3 @@
 
 ## URGENT
 
-- [ ] finish License
