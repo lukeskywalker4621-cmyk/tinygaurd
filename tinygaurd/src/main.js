@@ -62,7 +62,6 @@ app.on('window-all-closed', () => {
 // code. You can also put them in separate files and import them here.
 import { spawn } from 'node:child_process';
 
-// Add near the top level:
 ipcMain.on('face-hiding:start', () => {
   const scriptPath = path.resolve(
     app.getAppPath(),
