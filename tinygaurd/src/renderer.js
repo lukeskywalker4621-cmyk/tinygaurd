@@ -12,7 +12,7 @@
  * https://electronjs.org/docs/tutorial/security
  */
 
-import './index.css';
+import './frontend/index.css';
 
 console.log(
   '👋 This message is being logged by the renderer process, included via Vite',
@@ -21,4 +21,3 @@ console.log(
 document.getElementById('mybutton')?.addEventListener('click', () => {
   window.faceHiding.start();
 });
-

@@ -142,12 +142,12 @@ h2.slogan {
 }
 
 .email-wrapper input {
-  background-image: url("../assets/Mail_icon.png");
+  background-image: url("/Mail_icon.png");
 }
 
 .password-wrapper input {
   padding-right: 48px;
-  background-image: url("../assets/Password_icon.png");
+  background-image: url("/Password_icon.png");
 }
 
 .input-wrapper input::placeholder {
