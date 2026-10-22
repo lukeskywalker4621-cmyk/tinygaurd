@@ -14,7 +14,7 @@ Software should serve people and communities, not corporate
 accumulation, monopolistic control, or the exploitation of workers.
 
 This License grants individuals and eligible community organizations the
-right to use, study, modify, and chare the covered software, subject to
+right to use, study, modify, and share the covered software, subject to
 the conditions stated below. It does not grant the same permissions to
 Restricted Commercial Entities.
 
