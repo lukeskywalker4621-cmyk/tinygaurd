@@ -1,3 +1,3 @@
-|OS Tested | Supported|
+|Browser Tested | Supported|
 |---|---|
 |none so far||
