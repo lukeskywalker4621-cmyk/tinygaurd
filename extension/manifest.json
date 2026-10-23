@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "TinyGuard",
+    "version": "1.0.0",
+    "description": "TinyGuard browser extension",
+    "icons": {
+        "48": "add later",
+        "128": "add later"
+    }
+}
