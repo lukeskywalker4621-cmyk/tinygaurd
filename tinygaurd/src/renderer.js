@@ -18,6 +18,17 @@ console.log(
   '👋 This message is being logged by the renderer process, included via Vite',
 );
 
-document.getElementById('mybutton')?.addEventListener('click', () => {
-  window.faceHiding.start();
+document.getElementById('mybutton')?.addEventListener('click', async () => {
+  try {
+    const started = await window.DOMTokenList.start("face-hiding");
+
+    if (!started) {
+      console.log("Face Hiding is already running.");
+      return;
+    }
+
+    console.log("Face Hiding launch requested");
+  } catch (error) {
+    console.error("Failed to start Face Hiding", error);
+  }
 });
