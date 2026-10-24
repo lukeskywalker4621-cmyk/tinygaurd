@@ -3,6 +3,6 @@
 // https://www.electronjs.org/docs/latest/tutorial/process-model#preload-scripts
 const { contextBridge, ipcRenderer } = require('electron');
 
-contextBridge.exposeInMainWorld('faceHiding', {
-  start: () => ipcRenderer.send('face-hiding:start'),
+contextBridge.exposeInMainWorld('tools', {
+  start: (toolID) => ipcRenderer.invokde('tools:start', toolID),
 });
