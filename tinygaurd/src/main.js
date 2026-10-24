@@ -1,6 +1,7 @@
 import { app, BrowserWindow, ipcMain, Menu } from 'electron';
 import path from 'node:path';
 import started from 'electron-squirrel-startup';
+import { startTool } from './backend/toolManager.js';
 
 Menu.setApplicationMenu(null);
 
@@ -60,21 +61,11 @@ app.on('window-all-closed', () => {
 
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and import them here.
-import { spawn } from 'node:child_process';
 
-ipcMain.on('face-hiding:start', () => {
-  const scriptPath = path.resolve(
-    app.getAppPath(),
-    '..',
-    'tools',
-    'face_hiding',
-    'webcam.py',
-  );
+ipcMain.handle('tools:start', (_event, toolID) => {
+  if (typeof toolID !== 'string') {
+    throw new Error('Invalid tool ID');
+  }
 
-  const child = spawn('python', [scriptPath], {
-    cwd: path.dirname(scriptPath),
-  });
-
-  child.on('error', (error) => console.error('Could not start webcam:', error));
-  child.stderr.on('data', (data) => console.error(data.toString()));
+  return startTool(toolID)
 });
