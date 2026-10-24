@@ -12,7 +12,7 @@ function registerTool({
     runtime = "Python"
 }){
     if (tools.has(toolID)) {
-        throw new Error('Tool already registered: ${toolID}');
+        throw new Error(`Tool already registered: ${toolID}`);
     }
 
     tools.set(toolID, {
@@ -38,7 +38,7 @@ function startTool(toolID) {
     const tool = getTool(toolID);
 
     if (!tool) {
-        throw new Error('Unknown tool: ${toolID}');
+        throw new Error(`Unknown tool: ${toolID}`);
     }
 
     if (tool.process && tool.process.exitCode === null && !tool.process.killed) {
@@ -64,7 +64,11 @@ function startTool(toolID) {
     });
 
     child.stdout.on("data", (data) => {
-        console.log('[$tool.toolID}] ${data.toString().trimEnd()}');
+        console.log(`[${tool.toolID}] ${data.toString().trimEnd()}`);
+    });
+
+    child.stderr.on("data", (data) => {
+        console.error(`[${tool.toolID}] ${data.toString().trimEnd()}`);
     });
 
     child.once("error", (error) => {
@@ -77,7 +81,7 @@ function startTool(toolID) {
         if (tool.process === child) {
             tool.process = null;
             tool.status = code === 0 ? "stopped" : "error";
-            tool.error = code === 0 ? null : 'python exited with code ${code}';
+            tool.error = code === 0 ? null : `python exited with code ${code}`;
         }
     });
 
@@ -90,8 +94,9 @@ registerTool({
     script: "tools/face_hiding/webcam.py"
 });
 
-module.exports = {
+export {
     registerTool,
     getTool,
-    getAllTools
+    getAllTools,
+    startTool
 };
